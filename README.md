@@ -1,7 +1,7 @@
 # Bayesian-Image-classification
 
 ## GOAL:
-The goal of this project is to classify digits by finding statistical features like mean, variance and then using Bayesian posterior probabilities to arrive at a decision. It shows how simple statistical features extracted from an image using Bayesian decision theory can be used to classify an image into a digit! 
+The goal of this project is to classify digits by finding statistical features like mean, variance and then using Bayesian posterior probabilities to arrive at a decision. It shows how simple statistical features extracted from an image can be used to classify an image into a digit using Bayesian decision theory! 
 
 ### Data: 
 The data consists uses a subset of images (with modifications) from the MNIST dataset. The original MNIST dataset (http://yann.lecun.com/exdb/mnist/) contains 70,000 images of handwritten digits, divided into 60,000 training images and 10,000 testing images. We use only images for digit “3” and digit “7” in this project. The data is stored in “.mat” files. 
